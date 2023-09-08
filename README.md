@@ -5,7 +5,7 @@ In this project, I investigated the feasibility of using Convolutional Neural Ne
 ![superniva neutrino](https://github.com/elilouise/Supernova-Neutrino-Detector-CNN/assets/53550369/b6916c87-85fd-49c8-b867-a18e189ea263)
 
 
-# Description
+## Description
 
 Implemented a simulation for electronic noise in detectors and developed a machine learning classifier to discern 'clean' simulated neutrinos from noise-augmented slices. The project further delves into the analysis of the classifier's performance across varying noise intensities.
 
