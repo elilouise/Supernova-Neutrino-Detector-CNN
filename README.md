@@ -9,7 +9,7 @@ In this project, I investigated the feasibility of using Convolutional Neural Ne
 
 Implemented a simulation for electronic noise in detectors and developed a machine learning classifier to discern 'clean' simulated neutrinos from noise-augmented slices. The project further delves into the analysis of the classifier's performance across varying noise intensities.
 
-## Tasks Performed:
+## Tasks Performed
 
 Noise Simulation: Created a method to simulate the electronic noise expected in the detector, which follows a normal distribution.
 
